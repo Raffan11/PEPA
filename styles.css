@@ -1,0 +1,26 @@
+body {
+background-color: lightpink;
+font-size: 18px;
+font-family: Avenir black;
+max-width: 600px;
+margin: 0 auto;
+}
+h1 {
+	color: black;
+	text-align: center;
+}
+h2 { text-align: center;
+}
+p { 
+	text-align: center;
+	border-bottom: 1px solid: green;
+	padding-bottom: 5px
+}
+.toppstreck {
+	text-align: center;
+}
+	a { color: rgb(256, 99, 99);
+}
+.left {
+	text-align: left;
+}
