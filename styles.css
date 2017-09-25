@@ -1,5 +1,5 @@
 body {
-background-color: lightpink;
+background-color: salmon;
 font-size: 18px;
 font-family: Avenir black;
 max-width: 600px;
@@ -23,4 +23,14 @@ p {
 }
 .left {
 	text-align: left;
+}
+
+.column1 {
+	background-color: pink;
+}
+.column2 {
+	background-color:red;
+} 
+.column3 {
+	background-color: purple;
 }
